@@ -15,6 +15,8 @@
 ## Telegram
 https://t.me/joinchat/z7k7YTAlJXE1YmEy
 
+## Recommendations
+In order to prepare yourself, it would be cool if you had at least one crypto wallet - to be more precise a browser wallet - e.g. using https://brave.com or https://metamask.io. 
 
 ## Notenliste
 
