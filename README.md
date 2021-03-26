@@ -1,4 +1,4 @@
-# WWI18DSA Aktuelle Data Science-Entwicklungen II
+# WWI18DSB Aktuelle Data Science-Entwicklungen II
 
 ## Zeitraum
 10.05.2021 - 30.07.2021
@@ -13,4 +13,4 @@
 2. Tokenize [Fancy Flashcard Decks](https://github.com/fancy-flashcard/ffc/blob/master/README.md)
 
 ## Telegram
-https://t.me/joinchat/Fm4AurtLakERzoT5
+https://t.me/joinchat/z7k7YTAlJXE1YmEy
