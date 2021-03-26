@@ -5,8 +5,12 @@
 
 ## Schwerpunkte
 ### Deep Learning im Kontext von Decentralized Finance
-1. Explore the existing features around https://klopapier.exchange
+1. Explore the existing features around https://klopapier.exchange 
 2. Integrate a Deep Learning based AI Trader
+
+Background for 1. https://github.com/DHBWMannheim/MachineLearning/blob/master/README.md
+https://github.com/DHBWMannheim/ml-server/tree/cloud-storage
+
 
 ### Data and Intellectual Property services leveraging NFTs
 1. Create an [NFT Platform](https://www.youtube.com/watch?v=WsZyb2T83lo) 
