@@ -10,14 +10,14 @@
 4. Chat Bot Integrationen im Kontext von Telegram, Slack, Discord, Reddit, Twitter
 
 ## Projektvorschläge
-**Zum Technologischen Schwerpunkt 1:**  
+1. Zum o.g. Technologischen Schwerpunkt 1:  
 Entwickle sich selbst optimierende [Gambling bots](https://github.com/michael-spengler/decentralized-finance#binance-based-leverage-investment)  
-**Zum Technologischen Schwerpunkt 2:**  
+2. Zum Technologischen Schwerpunkt 2:  
 Entwickle einen FAQ Bot auf Basis von [Fancy Flashcards](https://github.com/fancy-flashcard/ffc/blob/master/README.md) Trainingsdaten  
 Entwickle ein Quiz Bot auf Basis von [Fancy Flashcards](https://github.com/fancy-flashcard/ffc/blob/master/README.md) Trainingsdaten  
-**Zum Technologischen Schwerpunkt 3:**  
+3. Zum Technologischen Schwerpunkt 3:  
 Entwickle eine Webharvesting Lösung zur Datenbeschaffung für eine Event Overview Wenbanwendung - Beispiel folgt in der ersten Vorlesung.  
-**Zum Technologischen Schwerpunkt 4:**   
+4. Zum Technologischen Schwerpunkt 4:   
 Entwickle Chat Bot Integrationen für o.g. Gambling Bots, Fancy Flashcards und für die Event Overview Wenbanwendung   
 
 
