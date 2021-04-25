@@ -3,30 +3,35 @@
 ## Zeitraum
 10.05.2021 - 30.07.2021
 
-## Schwerpunkte
-### Deep Learning im Kontext von Decentralized Finance
-1. Explore the existing features around https://klopapier.exchange 
-2. Integrate a Deep Learning based AI Trader
+## Technologische Schwerpunkte
+1. Machine Learning im Kontext von [Decentralized Finance](https://www.npmjs.com/package/decentralized-finance-defi). 
+2. Natural Language Processing im Kontext von [Fancy Flashcards](https://github.com/fancy-flashcard/ffc/blob/master/README.md)
+3. Web Harvesting using testing frameworks like [CodeceptJS](https://codecept.io/)
+4. Chat Bot Integrationen im Kontext von Telegram, Slack, Discord, Reddit, Twitter
 
-Background for 1. https://github.com/DHBWMannheim/MachineLearning/blob/master/README.md
-https://github.com/DHBWMannheim/ml-server/tree/cloud-storage
+## Projektvorschläge
+**Zum Technologischen Schwerpunkt 1:**  
+Entwickle sich selbst optimierende [Gambling bots](https://github.com/michael-spengler/decentralized-finance#binance-based-leverage-investment)  
+**Zum Technologischen Schwerpunkt 2:**  
+Entwickle einen FAQ Bot auf Basis von [Fancy Flashcards](https://github.com/fancy-flashcard/ffc/blob/master/README.md) Trainingsdaten  
+Entwickle ein Quiz Bot auf Basis von [Fancy Flashcards](https://github.com/fancy-flashcard/ffc/blob/master/README.md) Trainingsdaten  
+**Zum Technologischen Schwerpunkt 3:**  
+Entwickle eine Webharvesting Lösung zur Datenbeschaffung für eine Event Overview Wenbanwendung - Beispiel folgt in der ersten Vorlesung.  
+**Zum Technologischen Schwerpunkt 4:**   
+Entwickle Chat Bot Integrationen für o.g. Gambling Bots, Fancy Flashcards und für die Event Overview Wenbanwendung   
 
-
-### Data and Intellectual Property services leveraging NFTs
-1. Create an [NFT Platform](https://www.youtube.com/watch?v=WsZyb2T83lo) 
-2. Tokenize [Fancy Flashcard Decks](https://github.com/fancy-flashcard/ffc/blob/master/README.md)
 
 ## Telegram
 https://t.me/joinchat/z7k7YTAlJXE1YmEy
 
-## Recommendations
-In order to prepare yourself, it would be cool if you had at least one crypto wallet - to be more precise a browser wallet - e.g. using https://brave.com or https://metamask.io. 
+## Vorbereitung
+Installiere https://brave.com
 
 ## Notenliste
 
-| Name | GitHub User | Ergebnisse | Punkte | Note |
-| ------- | ------- | ------- | ------- | ------- |
-| Simon Scapan | ? | ? | ? | ? |
+| Name | GitHub User | Ergebnisse | Punkte (max: 60) | Note |
+| ------- | ------- | ------- | ---------- | ------- |
+| ? | ? | ? | ? | ? |
 | ? | ? | ? | ? | ? |
 | ? | ? | ? | ? | ? |
 | ? | ? | ? | ? | ? |
