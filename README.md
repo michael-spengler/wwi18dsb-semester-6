@@ -9,6 +9,7 @@
 3. Web Harvesting using testing frameworks like [CodeceptJS](https://codecept.io/)
 4. Chat Bot Integrationen im Kontext von Telegram, Slack, Discord, Reddit, Twitter  
 5. Truth Finder System leveraging Blockchain based incentive systems (staking) and NLP for the corresponding optional automation
+6. Contributor Assistant (e.g. reward system for valuable open source contributions)
 
 ## Projektvorschläge
 1. Zum o.g. Technologischen Schwerpunkt 1:  
