@@ -31,6 +31,9 @@ https://t.me/joinchat/z7k7YTAlJXE1YmEy
 ## Vorbereitung
 Installiere https://brave.com
 
+## Struktur der Vorlesung
+Zu Beginn der Vorlesung würde ich ca. 1,5 Stunden die einzelnen Gruppen deren Fortschritt und deren Challenges vorstellen lassen und daraufhin einige Hintergründe erläutern. Danach würde ich regelmäßig in die Gruppenarbeiten entlassen und einfach per Chat / Meeting Rede und Antwort stehen. 
+
 ## Notenliste
 
 | Name | GitHub User | Ergebnisse | Punkte (max: 60) | Note |
